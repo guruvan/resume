@@ -44,7 +44,7 @@ AWS IAM</td>
 </table>
 
 
-**Managing Partner*** - mazaclub*
+**Managing Partner** - mazaclub
 
 July 2014 - Present - Remote
 
@@ -62,7 +62,7 @@ mazaclub ports and develops multiplatform applications & build systems for crypt
 
 **Tech Stack:** Linux Docker Bash git github gitlab Bitcoin mysql python nginx Electrum Rancher kubernetes jenkins cjdns VMware ESXi macOS Windows powershell debian ubuntu nixOS  AWS VPC EBS Route53
 
-**Project Coordinator / Release Engineer*** - MAZA** *
+**Project Coordinator / Release Engineer** - MAZA
 
 June 2014 - December 2018 - Remote
 
@@ -82,7 +82,7 @@ MAZA is a public blockchain, launched in 2014.  I became involved as part of a c
 
 **Tech Stack:** Linux Docker Bash git github Bitcoin mysql PHP sql nginx git github CoreOS AWS VPC EBS Route53
 
-**Miner & Mining Pool Operator*** - Self Employed*
+**Miner & Mining Pool Operator** - Self Employed
 
 March 2012 - June 2014
 
@@ -96,7 +96,7 @@ March 2012 - June 2014
 
 Additional Experience
 
-**Support Engineer *** - PeopleBrowsr*
+**Support Engineer** - PeopleBrowsr
 
 2 years
 
@@ -108,7 +108,7 @@ PeopleBrowsr began as a power-user focused Twitter client application, with a su
 
 * Automated direct social media marketing campaigns increasing response rates
 
-**Partner / Head Barista ***- The Village Oracle & Buddha Belly Cafe*
+**Partner / Head Barista** - The Village Oracle & Buddha Belly Cafe
 
 2 years
 
@@ -120,7 +120,7 @@ Eclectic cafe in Northern California catering to musicians, artists, and world t
 
 * Built state-of-the-art virtualized internet cafe with several seats increasing draw & ticket averages 
 
-**IT Consultant / Network Engineer*** - Self Employed*
+**IT Consultant / Network Engineer** - Self Employed
 
 4 years
 
@@ -132,7 +132,7 @@ Supported several small to mid sized businesses with general IT advice, vendor e
 
 * Train employees on basic troubleshooting and operation of networking gear
 
-**Network Operations Manager*** - FlyCast Communications*
+**Network Operations Manager** - FlyCast Communications
 
 2 years
 
@@ -144,7 +144,7 @@ Flycast was the #2 Ad serving network next to DoubleClick in the dotcom boom. I 
 
 * Led strategic initiatives to improve incident and support response processes increasing customer satisfaction
 
-**CEO*** - The Internetwork Operating Company*
+**CEO** - The Internetwork Operating Company
 
 2 years
 
@@ -156,7 +156,7 @@ INTERNOC provided Value Added Reseller services, including full network engineer
 
 * Provided technical leadership and guidance for INTERNOC team, and clients’ staffs
 
-**Tech Support Specialist *** - University of Texas at San Antonio*
+**Tech Support Specialist** - University of Texas at San Antonio
 
 4 years
 
@@ -170,11 +170,11 @@ Hired on part time, grew position to full time, help grow support department. He
 
 EDUCATION
 
-**Northern Illinois University*** - English*
+**Northern Illinois University** - English
 
 1 years
 
-**University of Texas at San Antonio*** - English*
+**University of Texas at San Antonio** - English
 
 1 years
 
