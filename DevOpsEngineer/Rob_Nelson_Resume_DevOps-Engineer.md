@@ -1,3 +1,19 @@
+<table>
+  <tr>
+    <td>Rob Nelson
+Mount Shasta, California 96067
+rob@guruvan.net
++1.530.859.3794
+DevOps Engineering</td>
+    <td>
+https://LinkedIn.com/guruvan 
+https://github.com/guruvan
+https://Twitter.com/guruvan
+https://hub.docker.com/r/guruvan </td>
+  </tr>
+</table>
+
+
 Broad systems and networking generalist with over 20yrs of professional and personal experience, recent experience with developer-focused cloud networking and build & release pipelines, stacks based in several languages.  Rapidly absorb new technologies, expert troubleshooting skills. Team builder and coach. 
 
 <table>
@@ -78,6 +94,8 @@ March 2012 - June 2014
 
 **Tech Stack:** Linux Docker Bash Bitcoin mysql PHP sql nginx git github CoreOS AWS VPC EBS Route53
 
+Additional Experience
+
 **Support Engineer *** - PeopleBrowsr*
 
 2 years
@@ -89,6 +107,18 @@ PeopleBrowsr began as a power-user focused Twitter client application, with a su
 * Performed routine maintenance & repair on systems to increase developer’s effectiveness
 
 * Automated direct social media marketing campaigns increasing response rates
+
+**Partner / Head Barista ***- The Village Oracle & Buddha Belly Cafe*
+
+2 years
+
+Eclectic cafe in Northern California catering to musicians, artists, and world travelers. 
+
+* Brought full coffee service to cafe increasing daily regular business
+
+* Curated Art shows & closed art sales to help sustain cafe through winter months 
+
+* Built state-of-the-art virtualized internet cafe with several seats increasing draw & ticket averages 
 
 **IT Consultant / Network Engineer*** - Self Employed*
 
@@ -142,9 +172,9 @@ EDUCATION
 
 **Northern Illinois University*** - English*
 
-X years
+1 years
 
 **University of Texas at San Antonio*** - English*
 
-X years
+1 years
 
