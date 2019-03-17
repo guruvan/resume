@@ -1,16 +1,8 @@
 # **Rob Nelson**
 <table>
   <tr>
-    <td>Mount Shasta, California 96067</td>
-  </tr>
-  <td>rob@guruvan.net</td>
-  <td>
-      https://LinkedIn.com/guruvan </td>
-  <td>https://Twitter.com/guruvan</td>
-  <tr>
-  <td>+1.530.859.3794</td>
-    <td>https://github.com/guruvan</td>
-    <td>https://hub.docker.com/r/guruvan </td>
+    <td>https://LinkedIn.com/guruvan </td>
+     <td>https://Twitter.com/guruvan</td>
   </tr>
 </table>
 
@@ -26,22 +18,28 @@ Broad systems and networking generalist with over 20yrs of professional and pers
     <td>Beginner</td>
   </tr>
   <tr>
-    <td>Linux / Unix Admin
-Network Engineering
-DNS
-Troubleshooting </td>
-    <td>Docker
-Vagrant
-git /github / gitlab
-Virtualization </td>
-    <td>Cloud Operations
-CI/CD
-Shell Scripting (bash)
-AWS VPC Route53 EBS</td>
-    <td>Kubernetes
-Jenkins
-SQL
-AWS IAM</td>
+    <td>Linux / Unix Admin</td>
+    <td>Docker</td>
+    <td>Cloud Operations</td>
+    <td>Kubernetes</td>
+  </tr>
+  <tr>
+    <td>Network Engineering</td>
+    <td>Vagrant</td>
+    <td>CI/CD</td>
+    <td>Jenkins</td>
+  </tr>
+  <tr>
+    <td>Troubleshooting </td>
+    <td>git / github / gitlab</td>
+    <td>Shell Scripting (bash)</td>
+    <td>SQL</td>
+  </tr>
+  <tr>
+    <td>DNS</td>
+    <td>Virtualization </td>
+    <td>AWS VPC Route53 EBS</td>
+    <td>AWS IAM</td>
   </tr>
 </table>
 
