@@ -1,10 +1,9 @@
 # **Rob Nelson**
-<table>
-  <tr>
-    <td>https://LinkedIn.com/guruvan </td>
-     <td>https://Twitter.com/guruvan</td>
-  </tr>
-</table>
+
+[https://LinkedIn.com/guruvan](https://LinkedIn.com/guruvan)
+
+[https://Twitter.com/guruvan](https://Twitter.com/guruvan)
+
 
 ### **DevOps Engineering**
 
