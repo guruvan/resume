@@ -7,7 +7,11 @@
 
 [https://github.com/guruvan](https://github.com/guruvan)
 
+[View PDF resume](https://guruvan.net/DevOpsEngineer/Rob_Nelson_Resume_DevOps-Engineer.pdf)
+Prefer to contact on github? [File an Issue](https://github.com/guruvan/resume/issues)
+
 ### **DevOps Engineering**
+[and leadership](https://guruvan.net/Engineering_Leadership.md)
 
 <table>
   <tr>
