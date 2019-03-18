@@ -1,13 +1,13 @@
 # **Rob Nelson**
 
+
 [https://LinkedIn.com/guruvan](https://LinkedIn.com/guruvan)
 
 [https://Twitter.com/guruvan](https://Twitter.com/guruvan)
 
+[https://github.com/guruvan](https://github.com/guruvan)
 
 ### **DevOps Engineering**
-
-Broad systems and networking generalist with over 20yrs of professional and personal experience, recent experience with developer-focused cloud networking and build & release pipelines, stacks based in several languages.  Rapidly absorb new technologies, expert troubleshooting skills. Team builder and coach. 
 
 <table>
   <tr>
